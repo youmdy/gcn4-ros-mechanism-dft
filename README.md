@@ -3,6 +3,7 @@ Mechanistic study of ROS generation on g-C3N4-based photocatalysts using spectro
 
 ## Some updates
 - 1st Proposal: [docs/proposal_draft.pdf](docs/proposal_draft.pdf)
+- idea sketch uploaded
 
 ### Charge-dynamics–guided ROS generation on g-C3N4 hybrids (Experiment + DFT/TD-DFT)
 
