@@ -13,4 +13,4 @@
 | Year | Title | Link | Status | Notes |
 |---|---|---|---|---|
 | 2025 | (Paper title) | DOI/arXiv URL | to-read | One-line takeaway |
-
+| 2026 | Dynamics of Photoinduced Intra/Intermolecular ET in Ligand-Conjugated Ir(III)–Re(I) Photocatalysts | doi:10.1021/acs.jpclett.2c03367 | summarized | [Diagram/Notes](summaries/2023_kim_ir-re_et_summary.pdf) — IET: ~25 ps (meta) vs ~68 ps (para); OERS ~1.4 ns; meta-connection restricts rotation and accelerates IET |
